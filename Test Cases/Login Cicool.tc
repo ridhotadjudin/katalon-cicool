@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Login Cicool</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f0383e91-6886-4645-a02c-bdab75657632</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>83f82a43-1e22-448e-bff4-eafb8868bf9c</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>0e648983-6c86-4344-beae-fb9eab160ecb</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>5eb8118a-76d5-4125-a5ba-5669b9fc4ed7</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'http://localhost/cicool/administrator/login'</defaultValue>
+      <description></description>
+      <id>83f82a43-1e22-448e-bff4-eafb8868bf9c</id>
+      <masked>false</masked>
+      <name>urlCicool</name>
+   </variable>
+   <variable>
+      <defaultValue>'ridhotadjudin@gmail.com'</defaultValue>
+      <description></description>
+      <id>0e648983-6c86-4344-beae-fb9eab160ecb</id>
+      <masked>false</masked>
+      <name>uname</name>
+   </variable>
+   <variable>
+      <defaultValue>'123456'</defaultValue>
+      <description></description>
+      <id>5eb8118a-76d5-4125-a5ba-5669b9fc4ed7</id>
+      <masked>false</masked>
+      <name>passw</name>
+   </variable>
+</TestCaseEntity>
